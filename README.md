@@ -1,20 +1,22 @@
-# Vehicle Lane Detection System
+# 🛡️ AI Cyber Threat Detection
 
-## Overview
-The **Vehicle Lane Detection System** is a computer vision-based project designed to detect lanes on roads using image processing and deep learning techniques. This system can be integrated into autonomous vehicles and driver-assistance systems to improve road safety.
+A Machine Learning-based system for detecting and classifying cyber threats using log data, threat intelligence, and NLP. This project applies AI techniques to enhance cybersecurity by automating threat identification and providing real-time alerts and insights.
 
-## Features
-- Real-time lane detection
-- Edge detection using Canny algorithm
-- Region of interest selection
-- Hough Transform for lane line detection
-- Deep learning-based lane segmentation (optional)
-- Works with both video and image inputs
+---
 
-## Technologies Used
-- Python
-- OpenCV
-- NumPy
-- Matplotlib
-- TensorFlow/Keras (for deep learning-based detection)
-- Jupyter Notebook (for testing and visualization)
+## 📌 Project Overview
+
+This project aims to:
+- Detect common cyber threats (e.g., malware, phishing, brute-force attacks)
+- Analyze system logs and threat data using AI/ML models
+- Provide real-time threat classification and risk scoring
+- Use NLP to process threat reports and alerts
+
+---
+
+## 🧠 Features
+
+- 🔍 Log Analysis using ML
+- 🧠 Threat Classification (Phishing, Malware, DDoS, etc.)
+- 📊 Real-time Threat Dashboard
+- 🧾 NLP for report parsing and threat summarization
